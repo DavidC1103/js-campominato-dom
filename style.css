@@ -50,6 +50,9 @@ header{
     background-color: rgb(152, 185, 245);
 }
 
+.bomb{
+    background-color: rgb(192, 78, 78);
+}
 
 .hide{
     display: none;
