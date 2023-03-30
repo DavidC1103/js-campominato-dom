@@ -111,7 +111,7 @@ function endgame(win){
     return fine
 }
 
-function clickBox(button) {
+function clickBox() {
     button.classList.add('clicked')
     if(boxes.includes(this.aboxId)){
         endgame(false)
